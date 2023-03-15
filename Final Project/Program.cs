@@ -16,7 +16,6 @@ namespace Final_Project
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Console.Write("summary");
             Application.Run(new Form1());
         }
     }
